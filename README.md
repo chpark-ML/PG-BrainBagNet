@@ -3,8 +3,8 @@
 
 This repository provides the official PyTorch implementation of the following paper:
 > **Deep Joint Learning of Pathological Region Localization and Alzheimer's Disease Diagnosis**<br>
-> [Changhyun Park](https://github.com/chpark-ML)<sup>1</sup>, [Wonsik Jung](https://github.com/ssikjeong1/)<sup>1</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1</sup> 
-> (<sup>1</sup>Korea University) <br/>
+> [Changhyun Park](https://github.com/chpark-ML)<sup>1,+</sup>, [Wonsik Jung](https://github.com/ssikjeong1/)<sup>1,+</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1</sup> 
+> (<sup>1</sup>Korea University) <br/> (<sup>+</sup>: equal contribution)
 <!-- > [[Official version]](https://www.sciencedirect.com/science/article/pii/S1053811921004201?via%3Dihub) -->
 > [[ArXiv version]](https://arxiv.org/abs/2108.04555) <br>
 > Under review
