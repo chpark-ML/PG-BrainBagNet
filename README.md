@@ -1,5 +1,5 @@
 ## Deep Joint Learning of Pathological Region Localization and Alzheimer's Disease Diagnosis
-<p align="center"><img width="80%" src="Files/Multi_final_cog.png" /></p>
+<p align="center"><img width="50%" src="fig_1.png" /></p>
 
 This repository provides the official PyTorch implementation of the following paper:
 > **Deep Joint Learning of Pathological Region Localization and Alzheimer's Disease Diagnosis**<br>
