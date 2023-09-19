@@ -6,8 +6,8 @@ This repository provides the official PyTorch implementation of the following pa
 > [Changhyun Park](https://github.com/chpark-ML)<sup>1,+</sup>, [Wonsik Jung](https://github.com/ssikjeong1/)<sup>1,+</sup>, [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1</sup> 
 > (<sup>1</sup>Korea University) <br/> (<sup>+</sup>: equal contribution)
 <!-- > [[Official version]](https://www.sciencedirect.com/science/article/pii/S1053811921004201?via%3Dihub) -->
-> [[ArXiv version]](https://arxiv.org/abs/2108.04555) <br>
-> Under review
+> [[Official version]](https://www.nature.com/articles/s41598-023-38240-4)[[ArXiv version]](https://arxiv.org/abs/2108.04555) <br>
+> Published in Scientific Reports (JCR-IF: 4.997, 2021)
 > 
 > **Abstract:** *The identification of Alzheimer's disease (AD) using structural magnetic resonance imaging (sMRI) has been studied based on the subtle morphological changes in the brain. One of the typical approaches is a deep learning-based patch-level feature representation. For this approach, however, the predetermined patches before learning the diagnostic model can limit classification performance. To mitigate this problem, we propose the BrainBagNet with a position-based gate (PG), which applies position information of brain images represented through the 3D coordinates. Our proposed method represents the patch-level class evidence based on both MR scan and position information for image-level prediction. To validate our proposed method, we conducted experiments comparing our methods with state-of-the-art methods and evaluating the robust performances of two publicly available datasets: 1) ADNI and 2) AIBL. Furthermore, our proposed method outperformed classification performance in both AD diagnosis and mild cognitive impairment conversion prediction tasks over the comparative methods and analyzed our results from diverse perspectives. Based on our experimental results, we believe that the proposed method has the potential to provide new insights and perspectives in deep-learning based patch-level feature representation studies. Code is available at: \url{github.com/ku-milab/PG-BrainBagNet}.*
 
